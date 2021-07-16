@@ -44,7 +44,7 @@ This notebook was created using python 3.7.10. There were a number of issues wit
 ---
 ## Demonstration
 
-Using terminal or Gitbash CD to the correct folder that contains the notebook file, then type the following:
+Using terminal or Gitbash, CD to the correct folder that contains the notebook file, then type the following:
 
 ```python
 voila passive_investing.ipynb
