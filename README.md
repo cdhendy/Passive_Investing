@@ -9,7 +9,7 @@ Module 7 - Challenge 7 : Passive Investing
 
 ## Technologies
 
-Jupyter notebooks and the Pandas data analysis library were used in the creation of this project. .
+Jupyter notebooks and the Pandas data analysis library were used in the creation of this project.
 
 ---
 
@@ -44,7 +44,7 @@ This notebook was created using python 3.7.10. There were a number of issues wit
 ---
 ## Demonstration
 
-In the terminal type the following:
+Using terminal or Gitbash CD to the correct folder that contains the notebook file, then type the following:
 
 ```python
 voila passive_investing.ipynb
@@ -65,7 +65,7 @@ Contained within the notebook are the results of the analysis.
 
 ## Contributors
 
-Created by: Chris Henderson
+Created by: Christopher Henderson
 
 cdhendy@gmail.com
 
