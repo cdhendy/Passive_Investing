@@ -34,7 +34,7 @@ pip install hvplot
 ```
 
 ```python
-pip install sqalchemy
+pip install sqlalchemy
 ```
 
 Additionally Voila was used to create a interactive visualization for the project.
@@ -50,7 +50,7 @@ In the terminal type the following:
 voila passive_investing.ipynb
 ```
 
-![Gitbash](Resources/gitbash.gif)]
+![Gitbash](Resources/gitbash.gif)
 
 The results should then display in your browser as follows:
 
